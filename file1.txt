@@ -1,3 +1,4 @@
 File1 for conflict/
 This is file1.
 About file1.
+Conflict merge for branch_1
