@@ -1,2 +1,2 @@
 This is file3/ Doing pull conflict.
-
+Now we are doing
